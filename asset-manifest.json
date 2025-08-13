@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/min-app/static/css/main.6aa22753.css",
-    "main.js": "/min-app/static/js/main.a565a6c8.js",
-    "static/js/453.74e48ad7.chunk.js": "/min-app/static/js/453.74e48ad7.chunk.js",
-    "index.html": "/min-app/index.html",
-    "main.6aa22753.css.map": "/min-app/static/css/main.6aa22753.css.map",
-    "main.a565a6c8.js.map": "/min-app/static/js/main.a565a6c8.js.map",
-    "453.74e48ad7.chunk.js.map": "/min-app/static/js/453.74e48ad7.chunk.js.map"
+    "main.css": "/transport-app/static/css/main.6aa22753.css",
+    "main.js": "/transport-app/static/js/main.374b3c84.js",
+    "static/js/453.74e48ad7.chunk.js": "/transport-app/static/js/453.74e48ad7.chunk.js",
+    "index.html": "/transport-app/index.html",
+    "main.6aa22753.css.map": "/transport-app/static/css/main.6aa22753.css.map",
+    "main.374b3c84.js.map": "/transport-app/static/js/main.374b3c84.js.map",
+    "453.74e48ad7.chunk.js.map": "/transport-app/static/js/453.74e48ad7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6aa22753.css",
-    "static/js/main.a565a6c8.js"
+    "static/js/main.374b3c84.js"
   ]
 }
